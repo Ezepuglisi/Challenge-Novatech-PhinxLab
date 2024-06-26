@@ -1,6 +1,6 @@
 EJECUTAR BACKEND
 
-cd backend
+cd back
 npm install
 npm run start
 
